@@ -60,8 +60,8 @@
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_assignee_category_assignee</sys_update_name>
-        <sys_updated_by>fred.luddy</sys_updated_by>
-        <sys_updated_on>2020-02-27 07:19:02</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 10:49:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
